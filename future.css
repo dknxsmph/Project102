@@ -1,0 +1,28 @@
+#FUTURE {
+    word-spacing: .2em;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 100px;
+    font-weight: 150em;
+}
+
+#FUTURE p {
+    text-align: right;
+    margin-bottom: 80px;
+}
+
+#Work p {
+    margin-top: -25%;
+    margin-left: 28%;
+    text-align: left;
+}
+
+#Happy img {
+    float: right;
+}
+
+#Happy p {
+    padding-top: 3.5%;
+    margin-right: 8%;
+    text-align: right;
+}

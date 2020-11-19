@@ -1,0 +1,31 @@
+#EDUCATION {
+    padding-top: 100px;
+    margin-bottom: 100px;
+    border-width: 1px;
+    border-color: rgb(112, 109, 106);
+    border-style: dashed;
+    box-shadow: .3em .2em .3em gray
+}
+
+#EDUCATION a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+#EDUCATION a:hover {
+    font-size: 150%;
+    color: rgba(210, 105, 30, 1)
+}
+
+#EDUCATION a:active {
+    color: coral;
+}
+
+p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}

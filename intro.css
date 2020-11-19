@@ -1,0 +1,22 @@
+#intro p {
+    margin-top: 400px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 455%;
+    letter-spacing: .2em;
+    text-shadow: .1em .05em .3em rgb(7, 7, 7);
+    text-align: left;
+    color: #fff;
+    padding-left: 15%;
+    transition: 2s;
+
+}
+
+
+h1:hover {
+    text-shadow: .1em .1em .1em rgb(114, 109, 109);
+    color: rgb(0, 0, 0);
+
+}

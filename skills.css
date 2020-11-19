@@ -1,0 +1,24 @@
+#SKILLS {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#LSKILLS {
+    padding-top: 100px;
+}
+
+table {
+    text-align: center;
+
+
+}
+
+#scroll {
+    color: rgb(255, 204, 94);
+    padding: 15px;
+    width: 800%;
+    height: 450px;
+    overflow: scroll;
+
+}
